@@ -1,0 +1,9 @@
+{
+	"name": "eus2d-df-dp-ing-clientshipment",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ca18208-cacf-4795-8258-fb3b4c3ae9c1",
+		"tenantId": "42b03d0b-d7f2-403e-b764-0dbdcf0505f6"
+	}
+}
